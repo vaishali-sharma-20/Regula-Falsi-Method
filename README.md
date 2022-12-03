@@ -13,7 +13,8 @@ A University Assignment. Clearly Used to Solve anhy Porblem and Perform Computer
 ## Method and results
 
 Start
-Read values of x0, x1 and e
+Read values of x0, x1 and e.
+
 *Here x0 and x1 are the two initial guesses
 e is the degree of accuracy or the absolute error i.e. the stopping criteria*
 Computer function values f(x0) and f(x1)
